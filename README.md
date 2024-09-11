@@ -1,6 +1,7 @@
 **Multimedia University Cyberjaya Campus**
 
-**Term 2420 | CPT6123 Research Methodologies in Computer Science**
+**Term 2420 | CPT6123-Research Methodologies in Computer Science | T14L**
+
 
 **This is the submission repository for Assignment 1 - Critical Literature Review.**
 
