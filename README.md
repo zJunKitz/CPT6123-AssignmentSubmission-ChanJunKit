@@ -3,7 +3,7 @@
 **Term 2420 | CPT6123-Research Methodologies in Computer Science | T14L**
 
 
-**This is the submission repository for Assignment 1 - Critical Literature Review.**
+**This is the submission repository for assignments.**
 
 **Group members:**
 1. Chan Jun Kit (1231302583)
